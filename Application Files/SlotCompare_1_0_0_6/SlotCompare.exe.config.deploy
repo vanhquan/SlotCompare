@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="SlotCompare.Properties.Settings.scConnectionString" connectionString="Data Source=.\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\sc.mdf;Integrated Security=True" providerName="System.Data.SqlClient"/>
+    </connectionStrings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0"/>
+    </startup>
+</configuration>
